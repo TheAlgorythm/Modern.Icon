@@ -17,6 +17,10 @@ A list of FOSS Icons
 <a href="https://material.io/tools/icons/">material.io</a><br>
 <a href="https://github.com/google/material-design-icons">Github</a>
 
+### Material Design Icons (FOSS, Fork)
+<a href="https://materialdesignicons.com">materialdesignicons.com</a><br>
+<a href="https://github.com/Templarian/MaterialDesign">Github</a>
+
 ### Font Awesome (FOSS/Pro)
 <a href="https://fontawesome.com">fontawesome.com</a><br>
 <a href="https://github.com/FortAwesome/Font-Awesome/">Github</a>
