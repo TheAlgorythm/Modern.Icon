@@ -1,4 +1,5 @@
 # Modern.Icon
+
 A list of FOSS Icons
 
 ### Feather (FOSS)
@@ -20,6 +21,11 @@ A list of FOSS Icons
 ### Material Design Icons (FOSS, Fork)
 <a href="https://materialdesignicons.com">materialdesignicons.com</a><br>
 <a href="https://github.com/Templarian/MaterialDesign">Github</a>
+
+### tabler ICONS (FOSS)
+
+[tabler-icons.io](https://tabler-icons.io)<br>
+[Github](https://github.com/tabler/tabler-icons)
 
 ### Font Awesome (FOSS/Pro)
 <a href="https://fontawesome.com">fontawesome.com</a><br>
